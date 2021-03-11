@@ -1,1 +1,2 @@
+# hi,this is comment
 hello git 2nd revision 
